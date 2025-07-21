@@ -11,7 +11,7 @@ draft: false
 # AIS3 Pre-Exam 2024 WriteUp
 
 :::tip[原始附圖 HackMD 連結]
-https://hackmd.io/@xiung07/SyyNnaCXA
+https://hackmd.io/@xiung07/ais3-pre-exam-2024
 :::
 
 ## Welcome

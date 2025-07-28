@@ -24,7 +24,7 @@
 - （2024）CGGC 網路守護者挑戰賽 rk.23
 - （2025）AIS3 EOF Final
 - （2025）AIS3 Pre-Exam rk.74
-- （2025）Social Designer 複賽
+- （2025）Social Designer 決賽 第一名
 
 ### 講者經歷
 - （2024/11/11）基礎網頁安全實務
